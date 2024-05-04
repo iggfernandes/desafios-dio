@@ -1,2 +1,2 @@
 
-# Aqui estão os desafio ministrados pela DIO
+# Aqui estão os desafios ministrados pela DIO
